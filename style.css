@@ -1,0 +1,26 @@
+body {
+	font-family: Arial;
+	padding: 10px;
+	background: #66CDAA;
+}
+.header {
+	padding: 30px;
+	text-align: center;
+	background: white;
+}
+.header h1 {
+	font-size: 50px;
+}
+
+.topnav {
+	overflow: hidden;
+	background-color: #008B8B;
+}
+.topnav a {
+	float:left;
+	display: block;
+	color:#E0FFFF;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
